@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mighty_Block", "Mighty Block\Mighty_Block\Mighty_Block.csproj", "{01051364-64F4-4C3A-A73A-D824C6DF90E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mighty_BlockContent", "Mighty Block\Mighty_BlockContent\Mighty_BlockContent.contentproj", "{C938CC49-A747-4B42-908E-162BC4B262FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Debug|Mixed Platforms.Build.0 = Debug|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Debug|Mixed Platforms.Deploy.0 = Debug|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Debug|x86.ActiveCfg = Debug|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Debug|x86.Build.0 = Debug|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Release|Mixed Platforms.Build.0 = Release|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Release|Mixed Platforms.Deploy.0 = Release|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Release|x86.ActiveCfg = Release|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Release|x86.Build.0 = Release|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{01051364-64F4-4C3A-A73A-D824C6DF90E3}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{C938CC49-A747-4B42-908E-162BC4B262FC}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{C938CC49-A747-4B42-908E-162BC4B262FC}.Debug|x86.ActiveCfg = Debug|Xbox 360
+		{C938CC49-A747-4B42-908E-162BC4B262FC}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{C938CC49-A747-4B42-908E-162BC4B262FC}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{C938CC49-A747-4B42-908E-162BC4B262FC}.Release|x86.ActiveCfg = Release|Xbox 360
+		{C938CC49-A747-4B42-908E-162BC4B262FC}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\bin\x86\Debug\Content\square.xnb
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\bin\x86\Debug\Content\speed.xnb
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\bin\x86\Debug\Mighty_Block.exe
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\bin\x86\Debug\Mighty_Block.pdb
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\obj\x86\Debug\Windows Copy (2) of Mighty_Block.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\obj\x86\Debug\Mighty_Block.exe
+C:\Users\Anthony\Desktop\roids\Mighty Block\Mighty Block\Mighty_Block\obj\x86\Debug\Mighty_Block.pdb
